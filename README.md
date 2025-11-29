@@ -10,6 +10,10 @@ This project aims to keep LDD3 example drivers up-to-date with recent kernels.
 
 The original code can be found at: http://examples.oreilly.com/9780596005900/
 
+## Quickstart: Scull character driver sandbox
+
+If you want a minimal playground, start with the Scull character driver. A step-by-step sandbox guide lives in [docs/scull-sandbox.md](docs/scull-sandbox.md).
+
 # Compiling
 ----------
 
